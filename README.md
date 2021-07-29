@@ -9,9 +9,9 @@ First, to compile the application, please enter **make** in the original file di
 
 Then, after compiling the files, to run the program, enter:
 
-**./server "configuration file"**
+**./server &lt;configuration file&gt;**
   
-The argument "configuration file" will be a path to a binary configuration file.
+The argument &lt;configuration file&gt; will be a path to a binary configuration file.
   
 For the program to run correctly, the data of this file need to be arranged in the following layout from the start:
  
